@@ -1,21 +1,19 @@
 // anime/src/ru/animevost.js
 
-const mangayomiSources = [
-  {
-    name: "AnimeVost",
-    lang: "all",
-    baseUrl: "https://animevost.org",
-    apiUrl: "",
-    iconUrl: "https://animevost.org/favicon.ico",
-    typeSource: "single",
-    itemType: 1,
-    isNsfw: false,
-    version: "0.0.1",
-    dateFormat: "",
-    dateFormatLocale: "",
-    pkgPath: "anime/src/ru/animevostorg.js",
-  },
-];
+const mangayomiSources = [{
+    "name": "AnimeVost",
+    "lang": "ru",
+    "baseUrl": "https://animevost.org",
+    "apiUrl": "",
+    "iconUrl": "https://animevost.org/favicon.ico",
+    "typeSource": "single",
+    "itemType": 1,
+    "isNsfw": false,
+    "version": "0.0.1",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "pkgPath": "anime/src/ru/animevostorg.js"
+  }];
 
 class DefaultExtension extends MProvider {
   constructor() {
