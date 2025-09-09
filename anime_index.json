@@ -1345,7 +1345,7 @@
         "name": "animevostorg",
         "id": 1018721463,
         "baseUrl": "https://animevost.org",
-        "lang": "ru",
+        "lang": "all",
         "typeSource": "single",
         "iconUrl": "https://animevost.org/favicon.ico",
         "dateFormat": "",

@@ -3,7 +3,7 @@
 const mangayomiSources = [
   {
     name: "AnimeVost",
-    lang: "ru",
+    lang: "all",
     baseUrl: "https://animevost.org",
     apiUrl: "",
     iconUrl: "https://animevost.org/favicon.ico",
